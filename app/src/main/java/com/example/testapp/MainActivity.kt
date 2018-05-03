@@ -13,10 +13,6 @@ class MainActivity : AppCompatActivity() {
 
 
 
-
-
-
-
         val asfd = MyTestLibClass()
     }
 }
